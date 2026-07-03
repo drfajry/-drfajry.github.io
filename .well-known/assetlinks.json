@@ -1,1 +1,13 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drfajry.tahadialArqam",
+      "sha256_cert_fingerprints": [
+        "7C:D1:E4:4E:9B:3B:9F:47:1F:39:FF:87:0B:6E:AB:31:A2:B6:61:D0:16:CE:AF:AD:79:8E:13:3E:71:B7:7A:AA",
+        "C2:BE:DD:AC:96:04:17:FA:E1:CB:11:B8:8F:B7:B6:C5:15:F1:AC:6F:64:F5:16:4B:DF:05:7B:06:63:21:DB:1E"
+      ]
+    }
+  }
+]
